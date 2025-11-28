@@ -1,6 +1,8 @@
 # Ciallo ～(∠・ω< )⌒★!
 
-A production-ready version of Ciallo is under development, which is planned to be released in November on Steam. Except for the features in the paper, it will support exporting vector drawings to the Godot game engine.
+Ciallo is available for free on Steam since Nov.30 2025. https://store.steampowered.com/app/3973810
+
+Software engineering on a editor/DCC program is so fking hard😭😭😭. Literally get roasted.
 
 **Critical Warning**: There is a critical error in the SIGGRAPH 2024 Paper at the 3.RENDERING ALGORITHMS second paragraph.
 > All three types of strokes use the same vertex placing method. **We parameterize the stroke based on its length and place a vertex equidistantly along the stroke based on a given interval.**
